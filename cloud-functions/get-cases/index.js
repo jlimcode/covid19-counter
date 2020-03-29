@@ -15,16 +15,25 @@ exports.getCases = async (req, res) => {
     }
   });
 
-  res.send(
-    JSON.stringify({
-      fulfillmentText:
-        "There are currently " +
-        selectedData["cases"] +
-        " cases of COVID-19 in " +
-        state +
-        ". \n There were " +
-        selectedData["todayCases"] +
-        " new cases today."
-    })
-  );
+  if (selectedData == -1) {
+    res.send(
+      JSON.stringify({
+        fulfillmentText:
+          "I'm sorry, but I don't have data for that location. Please type the name of a state. (Ex. 'California')"
+      })
+    );
+  } else {
+    res.send(
+      JSON.stringify({
+        fulfillmentText:
+          "There are currently " +
+          selectedData["cases"] +
+          " cases of COVID-19 in " +
+          state +
+          ". \n There were " +
+          selectedData["todayCases"] +
+          " new cases today."
+      })
+    );
+  }
 };
