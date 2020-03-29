@@ -1,0 +1,222 @@
+[
+  {
+    "id": "2fbfb233-b38a-43db-a478-13cf30414ffd",
+    "data": [
+      {
+        "text": "Nevada",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5b18786-f5f9-421b-89de-0d998b0861c4",
+    "data": [
+      {
+        "text": "Michigan",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "edd608c6-27ab-4f5e-9be7-452d995ced7c",
+    "data": [
+      {
+        "text": "Florida",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d889dab-c8bc-4d6e-b8f9-28b03b124f40",
+    "data": [
+      {
+        "text": "How is it in ",
+        "userDefined": false
+      },
+      {
+        "text": "Kansas",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e024670-37f7-4166-8270-cf916777dc9e",
+    "data": [
+      {
+        "text": "I want updates from ",
+        "userDefined": false
+      },
+      {
+        "text": "Illinois",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85ab3af8-9902-48f7-85d9-32d8cdaee41a",
+    "data": [
+      {
+        "text": "What\u0027s up in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hawaii",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72f6bfba-5e72-4884-9f50-6d464d9fc835",
+    "data": [
+      {
+        "text": "Could I get info in ",
+        "userDefined": false
+      },
+      {
+        "text": "Delaware",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6740c355-c078-4605-87a0-2323c2a7c483",
+    "data": [
+      {
+        "text": "How is it in ",
+        "userDefined": false
+      },
+      {
+        "text": "Colorado",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f06ec9ab-6c82-428d-9df8-1f2d8c0a0e1f",
+    "data": [
+      {
+        "text": "I want info on ",
+        "userDefined": false
+      },
+      {
+        "text": "Arkansas",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d82cbcb7-c968-4bf6-a174-9ba307384aa2",
+    "data": [
+      {
+        "text": "from ",
+        "userDefined": false
+      },
+      {
+        "text": "Alaska",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22963a36-f3d3-48c4-a6dd-11f8c6c96ea3",
+    "data": [
+      {
+        "text": "Information on ",
+        "userDefined": false
+      },
+      {
+        "text": "California",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5500504f-13d7-45f7-8c67-b6082076c56c",
+    "data": [
+      {
+        "text": "Can I get updates on ",
+        "userDefined": false
+      },
+      {
+        "text": "Alabama",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      },
+      {
+        "text": " please?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
